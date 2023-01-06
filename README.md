@@ -6,18 +6,18 @@
 - [ ] Install 1Password 8 app on [Mac](https://downloads.1password.com/mac/1Password.zip) or [Windows](https://downloads.1password.com/win/1PasswordSetup-latest.exe) computer
 - [ ] Install 1Password [Chrome extension](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) on computer
 - [ ] Install 1Password 8 [iPhone / iPad app](https://apps.apple.com/app/id1511601750?mt=8) on all iPhones and iPads  
-- [ ] Make sure you have the [latest software update](https://support.apple.com/en-us/HT204204) installed!
+  - [ ] Make sure you have the [latest software update](https://support.apple.com/en-us/HT204204) installed!
 
 ## 1Password account setup
 
 >ℹ️ Use [this link](https://start.1password.com/sign-up/family?c=TROY-MXIEYXAH) for 50% off your first year of a new 1Password Families account for you and 5 other people (thanks, [Troy Hunt](https://www.troyhunt.com/a-password-manager-isnt-just-for-christmas-its-for-life-so-heres-50-percent-off/)!)
 
 - [ ]  Create [1Password account](https://start.1password.com/sign-up/plan) (more info about each plan option [here](https://1password.com/sign-up/))
-- [ ]  Use a totally different master password from the one you used with LastPass 
+  - [ ]  Use a totally different master password from the one you used with LastPass 
 - [ ]  Setup [two-factor authentication](https://my.1password.com/profile/2fa) on 1Password account
-- [ ]  Use “Security Key” option if you're able to
+  - [ ]  Use “Security Key” option if you're able to
 - [ ]  Print 1Password Emergency Kit, write down password on it, and store in fireproof safe (or somewhere else that’s physically secure)
-- [ ]  Delete Emergency Kit PDF and empty Recycle Bin / Trash to permanently delete it
+  - [ ]  Delete Emergency Kit PDF and empty Recycle Bin / Trash to permanently delete it
 
 ## Import LastPass data to 1Password account
 
@@ -32,7 +32,7 @@
 >Advanced users may want to check out this [account hardening guide](https://justinpagano.substack.com/p/protecting-against-a-password-manager-8f6) for additional steps to take to secure your online accounts.
 
 - [ ]  Use 1Password to change all passwords that were stored in LastPass
-- [ ]  It can help to use the list of items displayed in your LastPass account as a sort of “checklist” where you delete each account after you’ve finished changing its password until nothing is left
+  - [ ]  It can help to use the list of items displayed in your LastPass account as a sort of “checklist” where you delete each account after you’ve finished changing its password until nothing is left
 - [ ]  Enable two-factor authentication on all accounts that do not have it (this will protect your accounts going forward regardless of how a password of yours gets stolen)
 - [ ]  [Permanently delete all items](https://support.lastpass.com/help/permanently-delete-items-lp020012) from LastPass account
 - [ ]  [Delete / close LastPass account](https://lastpass.com/my.php)
