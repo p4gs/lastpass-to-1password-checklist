@@ -41,7 +41,12 @@
 ## FAQs
 
 ### "Why should I move off LastPass now?"
--  Jeremi Gosney wrote a [brilliant post](https://archive.is/Mumto) on infosec.exchange laying out a variety of reasons to move off LastPass  
+-  Jeremi Gosney wrote a [brilliant post](https://archive.is/Mumto) on infosec.exchange laying out a variety of reasons to move off LastPass
+	- He also wrote another [brilliant post](https://archive.ph/w95Lu) breaking down how easily (or not) an attacker could brute force guess LastPass master passwords. Your threat model may vary!
+
+### "I’ve been using LastPass and I’m pretty sure my master password is secure enough such that it won’t be cracked anytime soon. Do I really need to bother with changing my passwords that are stored in LastPass?"
+-   I think the better question to ask is “by when should I have changed my passwords that are stored in LastPass?”. Whoever took all of this encrypted vault data probably is going to hold onto it for…ever. And they’ll likely share it, either by selling it on the black market or, if they’re a nation-state actor, by sharing it with allied nation-states. Thanks to Moore’s Law, computing power continues to increase, become more cost effective, and become more widely available. So imagine how much cheaper and faster it will be for attackers to crack your master password in a few year’s time.
+	- And let’s not forget about practical quantum computing being on the horizon and the threat that poses to breaking a vast majority of in-use encryption algorithms today. [I’m not kidding](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html).
 
 ### "Why move to 1Password?"
 -   My recommendation to move to 1Password is based on a few reasons
