@@ -40,10 +40,10 @@
 
 ## FAQs
 
-"**Why should I move off LastPass now?**"
+### "Why should I move off LastPass now?"
 -  Jeremi Gosney wrote a [brilliant post](https://archive.is/Mumto) on infosec.exchange laying out a variety of reasons to move off LastPass  
 
-"**Why move to 1Password?**"
+### "Why move to 1Password?"
 -   My recommendation to move to 1Password is based on a few reasons
 	- 1Password's [security model](https://1passwordstatic.com/files/security/1password-white-paper.pdf) is stronger than LastPass', especially in light of this incident that puts customers' data at risk of offline brute force attacks. 1Password has long incorporated a [Secret Key](https://support.1password.com/secret-key-security/) to protect customer data from offline brute force attacks. Even if your 1Password master password is a single character long, the Secret Key acts as an "extension" of your password with 26 randomly generated alphanumeric characters
 	- 1Password is solely focused on building password/secrets management software. That puts them in a better position to be laser focused on keeping their security model up-to-date given an ever-changing threat landscape
